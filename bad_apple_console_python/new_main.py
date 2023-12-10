@@ -10,7 +10,7 @@ from pygame import mixer
 import os
 
 # 4:3 aspect ratio
-# this is gonna be 48x36
+# this is gonna be 96x36
 
 pygame.init()
 
